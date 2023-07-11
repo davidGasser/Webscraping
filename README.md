@@ -1,6 +1,6 @@
 # Webscraping
 
-The paper for this project can be found [here](../blob/main/Ingenieurpraxis-final.pdf). However, it is in German.
+The paper for this project can be found [here](https://github.com/davidGasser/Webscraping/blob/main/Ingenieurpraxis-final.pdf). However, it is in German.
 
 
 The importance of data has increased rapidly in recent years, because it help us to personalize applications, improve processes, gain new insights as well as
